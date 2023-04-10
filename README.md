@@ -3,5 +3,7 @@
 [Welcome to PyTorch Tutorials — PyTorch Tutorials 2\.0\.0\+cu117 documentation](https://pytorch.org/tutorials/)
 
 ```bash
+poetry add ***
+
 poetry run python ***.py
 ```

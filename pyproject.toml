@@ -10,6 +10,8 @@ packages = [{include = "pytorch_tutorials"}]
 python = "^3.9"
 torch = "^2.0.0"
 torchvision = "^0.15.1"
+matplotlib = "^3.7.1"
+pandas = "^2.0.0"
 
 
 [build-system]
